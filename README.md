@@ -8,7 +8,7 @@ I'm an Assistant Professor at Department of Computer Engineering at Adana Alpars
 
 ### Ph.D. in Computer Engineering  
 Hacettepe University Computer Engineering Department, Ankara, Turkey  
-2017 – 2014  
+2017 – 2024  
 Thesis: Video Anomaly Detection Using Knowledge Distillation
 
 ### M.Sc. in Computer Engineering  
