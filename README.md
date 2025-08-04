@@ -26,7 +26,7 @@ Thesis: A Robust Method To Identify Overlapping Crowd Motion Patterns
 
 ### Journal Articles
 
-1. Burçak Asal, Ahmet Burak Can. “Ensemble-Based Knowledge Distillation for Video Anomaly Detection”, Applied Sciences 14.3 (2024): 1032.  (DOI: 10.3390/app14031032) (https://doi.org/10.3390/app14031032)
+1. Burçak Asal, Ahmet Burak Can. “Ensemble-Based Knowledge Distillation for Video Anomaly Detection”, Applied Sciences 14.3 (2024): 1032.  [DOI: 10.3390/app14031032] (https://doi.org/10.3390/app14031032)
 
 2. Burçak Asal, Ahmet Burak Can. “Adaptive Video Anomaly Detection by Attention-based Relational Knowledge Distillation”, IEEE Access, 2025.  (DOI: 10.1109/ACCESS.2025.3585984) (https://doi.org/10.1109/ACCESS.2025.3585984)
 
