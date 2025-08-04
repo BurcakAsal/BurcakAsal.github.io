@@ -1,6 +1,6 @@
 # Burçak Asal
 
-I'm an Assistant Professor at Department of Computer Engineering at Adana Alparslan Türkeş Science and Technology University. I have received a PhD degree in Computer Engineering from Hacettepe University. My current research interests include computer vision, machine learning, deep learning and explainable artificial intelligence in general. Below you can find detailed information about my background, education, and academic publications.
+I'm an Assistant Professor at Department of Computer Engineering at Adana Alparslan Türkeş Science and Technology University. I have received a PhD degree in Computer Engineering from Hacettepe University. My current research interests include computer vision, machine learning, deep learning, software defect prediction, renewable energy, healthcare, cybersecurity, internet of things (IOT) and explainable artificial intelligence in general. Below you can find detailed information about my background, education, and academic publications.
 
 ---
 
